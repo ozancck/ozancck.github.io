@@ -2537,24 +2537,8 @@ body {
     ==============
 */
 
-.christmas{
-  
-  display: flex;
-  
-  justify-content: start;
-  
-
-}
 
 
-
-.christmas img{
-  
-
-max-width: 20%;
-
-
-}
 
 h1{
   font-weight: normal;
@@ -2565,40 +2549,10 @@ h1{
 }
 
 
-.countdown-container{
-  
+.col-sm-6 .social-icon1{
   display: flex;
-  
-}
-
-.big-text{
-  font-weight: bold;
-  font-size: 3rem;
-  line-height: 1;
-  margin: 0 2rem;
-}
-
-.countdown-el{
-  text-align: center;
-}
-
-.countdown-el.span{
-  font-size: 111px;
-}
-
-.countdownBlock{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-top: 100px;
-  margin-left: -70px;
-  
-}
-
-.socialMediaIcons{
-  display: flex;
-  
+  position: relative;
+  top: -5vh;
 }
 
 
