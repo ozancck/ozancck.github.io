@@ -569,10 +569,10 @@ ul {
   background-position: center center; }
 
 .home-2-img {
-  background-image: url(../images/christmas1.gif); }
+  background-image: url(../images/christmas1.mp4); }
 
 .featured-img-one {
-  background-image: url(../images/christmas1.gif); }
+  background-image: url(../images/christmas1.mp4); }
 
 .featured-img-two {
   background-image: url(../images/extra-feature-bg.jpg); }
@@ -2538,17 +2538,21 @@ body {
 */
 
 .christmas{
+  
   display: flex;
+  
   justify-content: start;
   
- 
+
 }
 
 
 
 .christmas img{
   
+
 max-width: 20%;
+
 
 }
 
